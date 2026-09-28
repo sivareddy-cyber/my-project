@@ -1,0 +1,17 @@
+[
+  {
+    "bank_id": "codereview-team-memory",
+    "content": "Our team does not allow console.log() in production code.",
+    "metadata": {
+      "source": "acceptance_test",
+      "rule_type": "logging_standard"
+    }
+  },
+  {
+    "bank_id": "codereview-team-memory",
+    "content": "Our team does not allow console.log() in production code. Use the structured logger instead.",
+    "metadata": {
+      "source": "api_direct_teach"
+    }
+  }
+]
